@@ -1,5 +1,3 @@
-# springbootA601D
-springbootA601D农产品商城系统
 ## 源码问题查看主页咨询
 
 ### 一、关键词
